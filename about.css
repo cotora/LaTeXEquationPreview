@@ -1,0 +1,29 @@
+html,body{
+    background-color:#2b2f38;
+    margin:0;
+    padding:0;
+}
+
+header{
+    background-color: #232529;
+    margin:0;
+    padding:15px;
+}
+
+#header-title{
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+#about{
+    margin:0 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.description{
+    margin:20px;
+    color:white;
+}

@@ -6,13 +6,18 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <script src="main.js" defer></script>
         <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" defer></script>
-        <title>TexEquationPreview</title>
+        <title>LaTeXEquationPreview</title>
     </head>
     <body>
-        <header>TexEquationPreview</header>
+        <header>
+            <a href="index.html" id="header-title">LaTeXEquationPreview</a>
+            <a href="about.html" id="about">about</a>
+        </header>
         <div class="result">
             <p class="subject">input</p>
             <input type="text" class="code" id="code" value="y=x">
+        </div>
+        <div class="result">
             <p class="subject">preview</p>
             <div class="preview" id="preview">\(y=x\)</div>
         </div>
