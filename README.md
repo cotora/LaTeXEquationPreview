@@ -1,3 +1,3 @@
-# TexEquationPreview
+# LaTeXEquationPreview
 ## about
-texの数式を入力するとプレビューを表示してくれる
+LaTeXの数式を入力するとプレビューを表示してくれる
